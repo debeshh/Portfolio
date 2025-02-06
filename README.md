@@ -27,4 +27,4 @@ Welcome to my portfolio. I am a Computer Science & Engineering student with skil
 
 ## Contact
 Email: anshubehera112@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/debesh-behera-b32127242) | [Portfolio]() | [GitHub](https://github.com/debeshh)
+[LinkedIn](https://www.linkedin.com/in/debesh-behera-b32127242) | [Portfolio](https://debeshbehera.netlify.app/) | [GitHub](https://github.com/debeshh)
